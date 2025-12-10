@@ -32,6 +32,6 @@ Le Random Forest est le modèle le plus performant avec un R² d’environ 0.72.
 - requests
 
 ## Auteur
-Lila Benabdallah
-Léa Hadj-said
-Faraa Awoyemi
+- Lila Benabdallah
+- Léa Hadj-said
+- Faraa Awoyemi
